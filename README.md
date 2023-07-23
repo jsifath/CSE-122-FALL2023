@@ -1,2 +1,7 @@
-# CSE-122-FALL2023
-This is an OOP Lab Repository 
+Name: Jannatul Sifath
+
+ID: 22235103222
+
+Intake: 51
+
+Section: 02
