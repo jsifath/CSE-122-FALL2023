@@ -13,6 +13,6 @@ int main()
         max=b;
     if (max<c)
         max=c;
-    cout<<"the max value is:"<<max;
+    cout<<"the max value is:"<<max<<endl;
     return 0;
 }
